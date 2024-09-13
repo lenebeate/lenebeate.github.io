@@ -22,7 +22,7 @@ p {
   font-weight: bold;
   background-color: rgb(229, 199, 166);
   background-size: cover;
-  padding: 1em;
+  padding: 0.5em;
 }
 
 .top-pic {
@@ -47,9 +47,9 @@ p {
     background-position: center 20%;
   }
   .top-text {
-    text-align: left;
+    font-size: 14px;
     top: 0.5em;
-    left: 1.8em;
+    left: 1em;
   }
 }
 
