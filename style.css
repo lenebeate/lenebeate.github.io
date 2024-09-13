@@ -28,7 +28,6 @@ p {
 
 .top-pic {
   background: url(https://live.staticflickr.com/65535/53982127497_a43de37d7d_o.jpg) no-repeat center; 
-  height: 500px;
   position: relative;
   background-size: cover;
 }
@@ -50,7 +49,7 @@ p {
   .top-text {
     font-size: 16px;
     top: 0.5em;
-    left: 1.2em;
+    left: 1em;
   }
 }
 
