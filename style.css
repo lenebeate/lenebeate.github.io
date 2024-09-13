@@ -36,8 +36,6 @@ p {
   font-family:'Times New Roman', Times, serif;
   position: absolute;
   background-position: center 20%;
-  top: 1em;
-  left: 2.2em;
   text-align: left;
   color: white;
 }
@@ -50,6 +48,8 @@ p {
   }
   .top-text {
     text-align: left;
+    top: 0.5em;
+    left: 1.8em;
   }
 }
 
